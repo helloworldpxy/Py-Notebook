@@ -1,5 +1,7 @@
 '''
-Py-Notebook v1.0
+Py-Notebook
+一个基于Python的本地笔记本应用，支持Markdown语法编辑与实时预览，提供直观的文件夹管理功能。
+version:v1.0
 By HelloWorld05 in 20250402
 '''
 
